@@ -16,7 +16,7 @@ It's using API from:
 
 Thanks for provide APIs.
 
-Live at : https://namada-explorer.rpc-node.xyz
+Live at : https://namada-explorer.stakefalcon.com
 ## Installation
 
 ```bash
