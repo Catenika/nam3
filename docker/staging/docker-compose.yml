@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  namada-explorer-stg:
+    stdin_open: true
+    tty: true
+    build:
+      context: ../../
+      dockerfile: docker/staging/Dockerfile
+    image: namada-explorer-stg
+    ports:
+      - '3003:3000'

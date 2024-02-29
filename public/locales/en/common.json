@@ -1,0 +1,9 @@
+{
+  "page": {
+    "home": "Home",
+    "validators": "Validators",
+    "blocks": "Blocks",
+    "transactions": "Transactions",
+    "block_detail": "Block Detail"
+  }
+}
