@@ -1,9 +1,9 @@
 {
   "page": {
-    "home": "NSE Home",
-    "validators": "NSE Validators",
-    "blocks": "NSE Blocks",
-    "transactions": "NSE Transactions",
-    "block_detail": "NSE Block Detail"
+    "home": "Home",
+    "validators": "Validators",
+    "blocks": "Blocks",
+    "transactions": "Transactions",
+    "block_detail": "Block Detail"
   }
 }
