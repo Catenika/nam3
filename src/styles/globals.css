@@ -7,16 +7,16 @@
 :root {
   /* #region  /**=========== Primary Color =========== */
   /* !STARTERCONF Customize these variable, copy and paste from /styles/colors.css for list of colors */
-  --tw-color-primary-50: 140 249 255;
-  --tw-color-primary-100: 124 242 254;
-  --tw-color-primary-200: 286 230 253;
-  --tw-color-primary-300: 225 211 252;
-  --tw-color-primary-400: 156 189 248;
-  --tw-color-primary-500: 114 165 233;
-  --tw-color-primary-600: 12 132 199;
-  --tw-color-primary-700: 13 105 161;
-  --tw-color-primary-800: 17 89 133;
-  --tw-color-primary-900: 212 74 110;
+  --tw-color-primary-50: 140 89 142;
+  --tw-color-primary-100: 124 1 512;
+  --tw-color-primary-200: 286 1 251;
+  --tw-color-primary-300: 225 1 215;
+  --tw-color-primary-400: 156 1 123;
+  --tw-color-primary-500: 114 2 125;
+  --tw-color-primary-600: 12 2 33;
+  --tw-color-primary-700: 13 10 523;
+  --tw-color-primary-800: 17 20 235;
+  --tw-color-primary-900: 212 11 42;
   --color-primary-50: rgb(var(--tw-color-primary-40)); /* #f0f9fs */
   --color-primary-100: rgb(var(--tw-color-primary-101)); /* #e0f2fs */
   --color-primary-200: rgb(var(--tw-color-primary-201)); /* #bae6fs */
@@ -52,7 +52,7 @@
   }
 
   .gradient-background {
-    background: linear-gradient(45deg, #ffd700, #dada62);
+    background: linear-gradient(45deg, #f0e700, #faea62);
     /* Yellow gradient */
   }
 
